@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eriknoc
 - 👀 I’m interested in 6502 assembly on Apple II and NES.
-- 🌱 I’m currently learning NES specific assembly.
+- 🌱 I’m currently learning NES specific coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
